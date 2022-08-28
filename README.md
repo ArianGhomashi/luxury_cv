@@ -1,16 +1,1 @@
-# luxury_cv
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="540" alt="luxury_cv" src="https://user-images.githubusercontent.com/110735726/187065889-9fd05a3b-db7c-4ca5-8c42-57d7ec20e97e.png">
